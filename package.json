@@ -1,0 +1,20 @@
+{
+  "name": "ik222hy-examination-3",
+  "version": "1.0.0",
+  "description": "Server-based web programming",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1dv523/ik222hy-examination-3.git"
+  },
+  "author": "Irene Koech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1dv523/ik222hy-examination-3/issues"
+  },
+  "homepage": "https://github.com/1dv523/ik222hy-examination-3#readme"
+}
