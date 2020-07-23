@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/1dv523/ik222hy-examination-3/issues"
   },
-  "homepage": "https://github.com/1dv523/ik222hy-examination-3#readme"
+  "homepage": "https://github.com/1dv523/ik222hy-examination-3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
